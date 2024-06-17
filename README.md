@@ -1,2 +1,2 @@
-# Desafio-DIO-Primeiro-Reposit-rio
-DIO - Desafio Git e Github primeiro repositório
+# Desafio-DIO-Primeiro-Repositorio ⚓
+Repositorio criado para desafio DIO
